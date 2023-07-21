@@ -15,5 +15,5 @@ Descrição: desenvolver um projeto Google App Script que contenha um formulári
 
 Dificuldades/erros encontrados durante o desenvolvimento  do projeto: alterar o projeto
 
-<a href= "https://script.google.com/macros/s/AKfycbwQZRHtv8si8CeaM7waWKjUECI4XkagBq5Xi3nKSoEHo7Zidgxoin49LvRIATo5-_N2iA/exec" CLIQUE AQUI </a>
-<a href= "https://script.google.com/macros/s/AKfycbzgayBesVWLj9e-DH4t3oCD59gncPYY3nVmanUBlJCHjeISW4BaUYpuCKQIg7cOQ_QKgA/exec" CLIQUE AQUI PARA PARTE 2 </a>
+"https://script.google.com/macros/s/AKfycbwQZRHtv8si8CeaM7waWKjUECI4XkagBq5Xi3nKSoEHo7Zidgxoin49LvRIATo5-_N2iA/exec"
+"https://script.google.com/macros/s/AKfycbzgayBesVWLj9e-DH4t3oCD59gncPYY3nVmanUBlJCHjeISW4BaUYpuCKQIg7cOQ_QKgA/exec" 
